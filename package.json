@@ -7,8 +7,9 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shivaay044/mock-4_bkd.git"
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
